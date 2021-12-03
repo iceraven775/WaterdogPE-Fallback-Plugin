@@ -1,0 +1,4 @@
+name: "Fallback"
+author: "iceraven
+version: "1.0"
+main: "plugins.Fallback.FallbackJoin"
