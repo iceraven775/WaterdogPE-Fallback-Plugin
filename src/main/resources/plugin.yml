@@ -1,4 +1,4 @@
 name: "Fallback"
-author: "iceraven
-version: "1.0"
+author: "iceraven"
+version: "1.1"
 main: "plugins.Fallback.FallbackJoin"
